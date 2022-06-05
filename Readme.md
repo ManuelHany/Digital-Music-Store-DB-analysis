@@ -7,7 +7,7 @@ In this project I wrangle and analyse the data base of a digital music store "Ch
 <br />- The SQL query is used to create the data used in the visualization.
 
 ### ***Steps to run this project***
-1. __Download the Chinook database from here__ ==> 
+1. __Download the Chinook database from here__ ==> [chinook-db.zip](https://github.com/ManuelHany/Digital_MusicStore_DB_analysis/files/8840062/chinook-db.zip)
 2. __Download DB browser for SQLite, or any open source tool compatible with SQL.__
 3. __Navigate to the Chinook.db file (probably in your downloads)__
 4. __Click on the Execute SQL__
